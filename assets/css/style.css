@@ -1,0 +1,23 @@
+body {
+  background-color: #eee;
+}
+header {
+  border-bottom: 2px solid #ddd;
+}
+.white {
+  background-color: #fff;
+}
+section {
+  margin-top: 2rem;
+  background-color: #fff;
+  border:1px solid #ddd;
+  padding: 1rem .5rem;
+}
+footer {
+  text-align: center;
+  margin-top: 2rem;
+}
+.card {
+  margin-right:1rem;
+  margin-bottom:1rem;
+}
